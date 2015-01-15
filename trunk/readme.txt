@@ -60,7 +60,7 @@ Testimonial post type will show below POSTS. To add new testimonial, go to Testi
 = What will be the Author image dimension? =
 Better to add square size image. Default image size set to 86px X 86px.
 
-== How to use shortcode inside page templates ==
+= How to use shortcode inside page templates =
 WordPress has a great function, do_shortcode(), that will allow you to use shortcodes inside your theme files. For example, to output Testimonials in a Theme file, you would do this: ```<?php echo do_shortcode('[gs_testimonial'); ?>```
 
 == Screenshots ==
