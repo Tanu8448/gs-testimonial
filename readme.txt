@@ -64,7 +64,9 @@ Better to add square size image. Default image size set to 86px X 86px.
 WordPress has a great function, do_shortcode(), that will allow you to use shortcodes inside your theme files. For example, to output Testimonials in a Theme file, you would do this: ```<?php echo do_shortcode('[gs_testimonial'); ?>```
 
 == Screenshots ==
-1. GS Testimonial Slider
+1. GS Testimonial Slider output on pages/post after adding shortcode [gs_testimonial]
+2. Testimonials > Add New. Then add Author Name, Testimonial, Author Image, Company Name, Designation
+3. Testimonials > All Testimonials. View all Testimonials at a glance.
 
 
 == Changelog ==
