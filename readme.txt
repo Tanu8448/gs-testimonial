@@ -1,7 +1,7 @@
 === GS Testimonial Slider ===
-Contributors: Golam Samdani
+Contributors: samdani
 Donate link: http://www.gsamdani.me/contact
-Tags: Testimonial slider, Best testimonial slider, Responsive testimonial slider, easy testimonial slider, client testimonial slider, testimonial slider wordpress, Testimonial plugin, testimonial, testimonial rotator
+Tags: Testimonial slider, Best testimonial slider, Responsive testimonial slider, easy testimonial slider, client testimonial slider, testimonial slider wordpress, Testimonial plugin, testimonial, testimonial rotator, gsamdani
 Requires at least: 3.3
 Tested up to: 4.1
 Stable tag: trunk
