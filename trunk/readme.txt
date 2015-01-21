@@ -55,18 +55,21 @@ Normally Testimonials will show by descending order, latest will show first. But
 == Frequently Asked Questions ==
 
 = How do I add new Testimonial? =
-Testimonial post type will show below POSTS. To add new testimonial, go to Testimonial > Add New, then add Testimonal Author name at Title, Full testimonal at Editor, Author Image, Company Name & Designation at respective fileds and Finally Publish.
+Testimonial post type will show below POSTS. To add new testimonial, go to Testimonial > Add New, then add Testimonial Author name at Title, Full testimonial at Editor, Author Image, Company Name & Designation at respective fields and Finally Publish.
 
 = What will be the Author image dimension? =
 Better to add square size image. Default image size set to 86px X 86px.
 
-= How to use shortcode inside page templates =
+= How to use shortcode inside page templates? =
 WordPress has a great function, do_shortcode(), that will allow you to use shortcodes inside your theme files. For example, to output Testimonials in a Theme file, you would do this: ```<?php echo do_shortcode('[gs_testimonial'); ?>```
 
 == Screenshots ==
 1. GS Testimonial Slider output on pages/post after adding shortcode [gs_testimonial]
 2. Testimonials > Add New. Then add Author Name, Testimonial, Author Image, Company Name, Designation
 3. Testimonials > All Testimonials. View all Testimonials at a glance.
+4. Testimonial Settings -> General Settings (Available only at PRO version)
+5. Testimonial Settings -> Style Settings (Available only at PRO version)
+6. Testimonial Settings -> Advance Settings (Available only at PRO version)
 
 
 == Changelog ==
