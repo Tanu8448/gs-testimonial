@@ -16,7 +16,8 @@ GS Testimonial Slider is a WordPress plugin which create custom post type to add
 
 GS Testimonial plugin is simple but flexible & powerful.
 
-*   [View a live demo &raquo;](http://www.gsamdani.me/gs-testimonial-slider)
+*   [Upgrade to PRO Version &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
+*   [View live demos & Documentations &raquo;](http://testimonial.gsamdani.me)
 *   [Hire Me &raquo;](http://www.gsamdani.me/contact)
 
 
@@ -33,6 +34,29 @@ Plugin Features
 * Powered by Cycle2.
 * Displaying Author Image with each Testimonial
 * Its easy to use interface allows you to manage, edit, create, and delete Testimonials with no new knowledge
+
+Pro Features 
+
+* 9 different Transitions
+* 9 different Themes / Styles
+* 6 Different Author image styles
+* Tons of shortcode parameters
+* Category wise Testimonials
+* Great Settings Panel
+* Enable / Disable - Stop on Hover
+* On / Off Navigation Arrow
+* Control Sliding Speed
+* On / Off Pagination
+* Unlimited Colors & Font styling
+* Google fonts
+* Different Theming
+* Author Image size control
+* Works with any WordPress Theme.
+* Build with HTML5 & CSS3.
+* Responsive. Work on any device.
+* Easy and user-friendly setup.
+* Well documentation and support.
+
 
 ShortCode
 
