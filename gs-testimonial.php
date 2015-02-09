@@ -45,7 +45,7 @@ require_once dirname( __FILE__ ) . '/gs-testimonial-shortcode.php';
 require_once dirname( __FILE__ ) . '/gs-testimonial-script.php';
 
 
-add_action('do_meta_boxes', 'gs_testimonial_change_image_box');
+//add_action('do_meta_boxes', 'gs_testimonial_change_image_box');
 function gs_testimonial_change_image_box()
 {
     remove_meta_box( 'postimagediv', 'gs_testimonial', 'side' );
