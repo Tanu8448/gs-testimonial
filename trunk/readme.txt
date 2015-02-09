@@ -61,27 +61,27 @@ Pro Features
 Shortcode
 
 9 different Transitions
-	* carousel
-	* fade
-	* fadeout
-    * scrollHorz
-    * scrollVert
-    * flipHorz
-    * flipVert
-    * shuffle
-    * tileSlide
+* carousel
+* fade
+* fadeout
+* scrollHorz
+* scrollVert
+* flipHorz
+* flipVert
+* shuffle
+* tileSlide
 
 Use any shortcode to display testimonials with preferred transition
 
-[gs_testimonial transition="carousel"]
-[gs_testimonial transition="fade"]
-[gs_testimonial transition="fadeout"]
-[gs_testimonial transition="scrollHorz"]
-[gs_testimonial transition="scrollVert"]
-[gs_testimonial transition="flipHorz"]
-[gs_testimonial transition="flipVert"]
-[gs_testimonial transition="shuffle"]
-[gs_testimonial transition="tileSlide"]
+* [gs_testimonial transition="carousel"]
+* [gs_testimonial transition="fade"]
+* [gs_testimonial transition="fadeout"]
+* [gs_testimonial transition="scrollHorz"]
+* [gs_testimonial transition="scrollVert"]
+* [gs_testimonial transition="flipHorz"]
+* [gs_testimonial transition="flipVert"]
+* [gs_testimonial transition="shuffle"]
+* [gs_testimonial transition="tileSlide"]
 
 Normally Testimonials will show by descending order, latest will show first. But if you wish to display ascending order, oldest at first then pass order="ASC" parameter to shortcode like 
 [gs_testimonial order="ASC"]
