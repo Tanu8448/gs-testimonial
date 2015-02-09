@@ -11,7 +11,7 @@
  * Plugin Name:			GS Testimonial
  * Plugin URI:			http://www.gsamdani.me/gs-testimonial-slider
  * Description:       	GS Testimonial Slider is a WordPress plugin which create custom post type to add client's testimonials / recommendations to display anywhere of your site using shortcode. [gs_testimonial]
- * Version:           	1.0.0
+ * Version:           	1.0.1
  * Author:       		Golam Samdani
  * Author URI:       	http://www.gsamdani.me
  * Text Domain:       	golamsamdani
@@ -45,9 +45,9 @@ require_once dirname( __FILE__ ) . '/gs-testimonial-shortcode.php';
 require_once dirname( __FILE__ ) . '/gs-testimonial-script.php';
 
 
-//add_action('do_meta_boxes', 'gs_testimonial_change_image_box');
+add_action('do_meta_boxes', 'gs_testimonial_change_image_box');
 function gs_testimonial_change_image_box()
 {
     remove_meta_box( 'postimagediv', 'gs_testimonial', 'side' );
-    add_meta_box('postimagediv', __('Testimonial Author Image'), 'post_thumbnail_meta_box', 'gs_testimonial', 'normal', 'high');
+    add_meta_box('postimagediv', __('Testimonial Author Image'), 'post_thumbnail_meta_box', 'gs_testimonial', 'side', 'high');
 }
