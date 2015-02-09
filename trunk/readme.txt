@@ -156,6 +156,10 @@ WordPress has a great function, do_shortcode(), that will allow you to use short
 = version 1.0 =
 * Initial release
 
+= version 1.0.1 =
+* Documentation Added
+* Fixed CSS
+* Added Demo & Doc links
 
 
 == Upgrade notice ==
