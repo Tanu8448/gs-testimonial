@@ -4,7 +4,7 @@ Donate link: http://www.gsamdani.me/contact
 Tags: Testimonial slider, Best testimonial slider, Responsive testimonial slider, easy testimonial slider, client testimonial slider, testimonial slider wordpress, Testimonial plugin, testimonial, testimonial rotator, gsamdani
 Requires at least: 3.3
 Tested up to: 4.1
-Stable tag: trunk
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

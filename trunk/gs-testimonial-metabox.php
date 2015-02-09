@@ -95,3 +95,69 @@ function gs_testimonial_save_meta_box_data( $post_id ) {
 add_action( 'save_post', 'gs_testimonial_save_meta_box_data' );
 
 
+// Ad for PRO version
+
+function gs_testimonial_pro_add_meta_box() {
+
+		add_meta_box(
+			'gs_testimonial_sectionid_pro',
+			__( "GS Testimonial Slider - PRO" , 'golamsamdani' ),
+			'gs_testimonial_meta_box_pro',
+			'gs_testimonial'
+		);
+}
+add_action( 'add_meta_boxes', 'gs_testimonial_pro_add_meta_box' );
+
+function gs_testimonial_meta_box_pro() {  ?>
+	
+	<p>
+	<h3 style="padding-left:0">Available features at GS Testimonial Slider - PRO</h3>
+    <ol class="">
+		<li>9 different Transitions</li>
+		<li>9 different Themes / Styles</li>
+		<li>6 Different Author image styles</li>
+		<li>Tons of shortcode parameters</li>
+		<li>Category wise Testimonials</li>
+		<li>Great Settings Panel</li>
+		<li>Enable / Disable - Stop on Hover</li>
+		<li>On / Off Navigation Arrow</li>
+		<li>Control Sliding Speed</li>
+		<li>On / Off Pagination</li>
+		<li>Unlimited Colors & Font styling</li>
+		<li>Google fonts</li>
+		<li>Different Theming</li>
+		<li>Author Image size control</li>
+		<li>Works with any WordPress Theme.</li>
+		<li>Build with HTML5 & CSS3.</li>
+		<li>Responsive. Work on any device.</li>
+		<li>Easy and user-friendly setup.</li>
+		<li>Well documentation and support.</li>
+    	<li>And many more.</li>
+    </ol>
+  </p>
+  <p><a class="button button-primary button-large" href="http://www.gsamdani.me/product/gs-testimonial-slider" target="_blank">Go for PRO</a></p>
+<?php
+}
+
+
+// SIDEBAR Ad for PRO version
+
+function gs_testimonial_pro_sidebar_add_meta_box() {
+
+		add_meta_box(
+			'gs_testimonial_sectionid_pro_sidebar',
+			__( "Other Info" , 'golamsamdani' ),
+			'gs_testimonial_meta_box_pro_sidebar',
+			'gs_testimonial',
+			'side',
+			'low'
+		);
+}
+add_action( 'add_meta_boxes', 'gs_testimonial_pro_sidebar_add_meta_box' );
+
+function gs_testimonial_meta_box_pro_sidebar() { ?>
+	<a href="http://testimonial.gsamdani.me/" target="_blank" style="text-decoration: none;width:97%;overflow:hidden;margin:5px;background: #ffffff;border: 1px solid #eeeeee;display: block;float: left;text-align: center;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px; outline: 0!important;" ><h3 style="margin: 0px;background: #eeeeee;-webkit-border-top-left-radius: 3px;-webkit-border-top-right-radius: 3px;-moz-border-radius-topleft: 3px;-moz-border-radius-topright: 5px;border-top-left-radius: 3px;border-top-right-radius: 3px;padding:5px;text-decoration: none;color:#333">GS Testimonial Slider - DEMO</h3><img style="max-width: 100%;height:auto; border-radius: 50%; margin: 5px 0 2px;" src="<?php echo plugins_url('gs-testimonial/img/gs-testimonial-slider.png'); ?>" /></a>
+
+	<div style="clear:both"></div>
+<?php
+}
