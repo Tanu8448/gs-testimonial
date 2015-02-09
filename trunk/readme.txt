@@ -61,6 +61,7 @@ Pro Features
 Shortcode
 
 9 different Transitions
+
 * carousel
 * fade
 * fadeout
