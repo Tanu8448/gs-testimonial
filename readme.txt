@@ -153,13 +153,20 @@ WordPress has a great function, do_shortcode(), that will allow you to use short
 
 == Changelog ==
 
+= version 1.0.1 =
+* Documentation Added
+* Fixed CSS
+* Added Demo & Doc links
+
 = version 1.0 =
 * Initial release
+
+== Upgrade notice ==
 
 = version 1.0.1 =
 * Documentation Added
 * Fixed CSS
 * Added Demo & Doc links
 
-
-== Upgrade notice ==
+= version 1.0 =
+* Initial release
