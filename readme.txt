@@ -106,10 +106,14 @@ Use any shortcode to display testimonials with preferred transition
 * gs_radius_shadow
 
 
-Style - One
+Style - One : 
 Use following shortcode to display testimonials combined with Carousel transition, gs_style1 theme & gs_square_shadow author image
 
 * [gs_testimonial transition="carousel" theme="gs_style1" img="gs_square_shadow"]
+
+Confused? 
+
+*   [View live demos & Documentations &raquo;](http://testimonial.gsamdani.me)
 
 Normally Testimonials will show by descending order, latest will show first. But if you wish to display ascending order, oldest at first then pass order="ASC" parameter to shortcode like 
 [gs_testimonial order="ASC"]
