@@ -4,7 +4,7 @@ Donate link: http://www.gsamdani.me/contact
 Tags: Testimonial slider, Best testimonial slider, Responsive testimonial slider, easy testimonial slider, client testimonial slider, testimonial slider wordpress, Testimonial plugin, testimonial, testimonial rotator, gsamdani
 Requires at least: 3.3
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ GS Testimonial Slider is a WordPress plugin which create custom post type to add
 
 GS Testimonial plugin is simple but flexible & powerful.
 
-*   [Upgrade to PRO Version &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
+*   [Upgrade to PRO Version for FREE till 15th March 15 &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
 *   [View live demos & Documentations &raquo;](http://testimonial.gsamdani.me)
 *   [Hire Me &raquo;](http://www.gsamdani.me/contact)
 
@@ -152,6 +152,9 @@ WordPress has a great function, do_shortcode(), that will allow you to use short
 
 
 == Changelog ==
+
+= version 1.0.2 =
+* Added admin notice to upgrade PRO version for free till 15th March 2015
 
 = version 1.0.1 =
 * Documentation Added

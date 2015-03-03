@@ -11,7 +11,7 @@
  * Plugin Name:			GS Testimonial
  * Plugin URI:			http://www.gsamdani.me/gs-testimonial-slider
  * Description:       	GS Testimonial Slider is a WordPress plugin which create custom post type to add client's testimonials / recommendations to display anywhere of your site using shortcode. [gs_testimonial]
- * Version:           	1.0.1
+ * Version:           	1.0.2
  * Author:       		Golam Samdani
  * Author URI:       	http://www.gsamdani.me
  * Text Domain:       	golamsamdani
@@ -49,5 +49,27 @@ add_action('do_meta_boxes', 'gs_testimonial_change_image_box');
 function gs_testimonial_change_image_box()
 {
     remove_meta_box( 'postimagediv', 'gs_testimonial', 'side' );
-    add_meta_box('postimagediv', __('Testimonial Author Image'), 'post_thumbnail_meta_box', 'gs_testimonial', 'side', 'high');
+    add_meta_box('postimagediv', __('Testimonial Author Image'), 'post_thumbnail_meta_box', 'gs_testimonial', 'side', 'low');
 }
+
+
+/**
+ * Admin notice for Free
+ */
+function gst_get_free() { ?>
+	
+	<?php ob_start(); ?>
+	<div class="update-nag">
+			<h3>Upgrade to PRO GS Testimonial Slider for free!!</h3>
+			<p>Dear GS Testimonial Slider User --<br>
+			Great News! <br>
+			Upgrade your existing one to PRO version, it's 100% free !!
+			 As we are lunching, offering you to download GS Testimonial slider wordpress PRO plugin completely free till 15th March'15. Hurry up & grab your copy. <br>
+
+			Download here <a href="http://goo.gl/6SrINy" target="_blank">Download PRO version</a></p>
+			<p>GS Testimonial Slider Team</p>
+	</div>
+	<?php echo ob_get_clean();
+}
+add_action('admin_notices', 'gst_get_free');
+//add_action('network_admin_notices', 'gst_get_free');
