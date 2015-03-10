@@ -76,13 +76,13 @@ Use any shortcode to display testimonials with preferred transition
 
 `[gs_testimonial transition="carousel"]`
 `[gs_testimonial transition="fade"]`
-* [gs_testimonial transition="fadeout"]
-* [gs_testimonial transition="scrollHorz"]
-* [gs_testimonial transition="scrollVert"]
-* [gs_testimonial transition="flipHorz"]
-* [gs_testimonial transition="flipVert"]
-* [gs_testimonial transition="shuffle"]
-* [gs_testimonial transition="tileSlide"]
+`[gs_testimonial transition="fadeout"]`
+`[gs_testimonial transition="scrollHorz"]`
+`[gs_testimonial transition="scrollVert"]`
+`[gs_testimonial transition="flipHorz"]`
+`[gs_testimonial transition="flipVert"]`
+`[gs_testimonial transition="shuffle"]`
+`[gs_testimonial transition="tileSlide"]`
 
 9 different Themes / Styles
 
@@ -107,9 +107,9 @@ Use any shortcode to display testimonials with preferred transition
 
 
 Style - One : 
-Use following shortcode to display testimonials combined with Carousel transition, gs_style1 theme & gs_square_shadow author image
+Use following shortcode to display testimonials combined with Carousel transition, gs_style1 theme & gs_circle author image
 
-`[gs_testimonial transition="carousel" theme="gs_style1" img="gs_square_shadow"]`
+`[gs_testimonial transition="carousel" theme="gs_style1" img="gs_circle"]`
 
 Confused? 
 
