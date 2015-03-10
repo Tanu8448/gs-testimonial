@@ -126,25 +126,25 @@ Different ways to install GS Testimonial slider plugin:
 Install GS Testimonial Slider as a regular WordPress plugin
 
 = Install by Search Plugin =
---* In your Admin, go to menu Plugins > Add New
---* Search GS Testimonial Slider
---* Click to install
---* Activate the plugin
---* Testimonials post type will show below POSTS
+- In your Admin, go to menu Plugins > Add New
+- Search GS Testimonial Slider
+- Click to install
+- Activate the plugin
+- Testimonials post type will show below POSTS
 
 = Install by Upload Plugin =
---* Download the latest version of GS Testimonial Slider (.zip file)
---* In your Admin, go to menu Plugins > Add New
---* Select  "Upload Plugin"
---* Click on “Choose File”
---* Select downloaded gs-testimonial.zip & click on ‘Install Now’ button
---* Activate the plugin
---* Testimonials post type will show below POSTS
+- Download the latest version of GS Testimonial Slider (.zip file)
+- In your Admin, go to menu Plugins > Add New
+- Select  "Upload Plugin"
+- Click on “Choose File”
+- Select downloaded gs-testimonial.zip & click on ‘Install Now’ button
+- Activate the plugin
+- Testimonials post type will show below POSTS
 
 = Install Plugin using FTP =
---* Upload gs-testimonial folder inside the /wp-content/plugins/ directory
---* Go to WordPress dashboard > Plugins & Activate the GS Testimonial Slider
---* Testimonials post type will show below POSTS
+- Upload gs-testimonial folder inside the /wp-content/plugins/ directory
+- Go to WordPress dashboard > Plugins & Activate the GS Testimonial Slider
+- Testimonials post type will show below POSTS
 
 * Put [gs_testimonial] shortcode, where you need to show the testimonial slider.
 
