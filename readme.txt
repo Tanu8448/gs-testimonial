@@ -18,7 +18,7 @@ GS Testimonial plugin is simple but flexible & powerful.
 
 *   [Upgrade to PRO Version for FREE till 15th March 15 &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
 *   [View live demos & Documentations &raquo;](http://testimonial.gsamdani.me)
-*   [Hire Me &raquo;](http://www.gsamdani.me/contact)
+*   [Contact Me &raquo;](http://www.gsamdani.me/contact)
 
 
 Plugin Features
@@ -74,8 +74,8 @@ Shortcode
 
 Use any shortcode to display testimonials with preferred transition
 
-* [gs_testimonial transition="carousel"]
-* [gs_testimonial transition="fade"]
+* `[gs_testimonial transition="carousel"]`
+* `[gs_testimonial transition="fade"]`
 * [gs_testimonial transition="fadeout"]
 * [gs_testimonial transition="scrollHorz"]
 * [gs_testimonial transition="scrollVert"]
@@ -109,7 +109,7 @@ Use any shortcode to display testimonials with preferred transition
 Style - One : 
 Use following shortcode to display testimonials combined with Carousel transition, gs_style1 theme & gs_square_shadow author image
 
-* [gs_testimonial transition="carousel" theme="gs_style1" img="gs_square_shadow"]
+* `[gs_testimonial transition="carousel" theme="gs_style1" img="gs_square_shadow"]`
 
 Confused? 
 
