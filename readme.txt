@@ -114,7 +114,8 @@ Use following shortcode to display testimonials combined with Carousel transitio
 
 Confused? 
 
-*   [View live demos & Documentations &raquo;](http://testimonial.gsamdani.me)
+*   [View live Demos &raquo;](http://testimonial.gsamdani.me)
+*	[Visual Installation & Usage Guide &raquo;](http://testimonial.gsamdani.me/documentation)
 
 Normally Testimonials will show by descending order, latest will show first. But if you wish to display ascending order, oldest at first then pass order="ASC" parameter to shortcode like 
 [gs_testimonial order="ASC"]
@@ -124,7 +125,7 @@ Normally Testimonials will show by descending order, latest will show first. But
 
 Install GS Testimonial as a regular WordPress plugin. Here is different ways to install GS Testimonial slider plugin : 
 
-*   [Visual Installtion & Usage Guide &raquo;](http://testimonial.gsamdani.me/documentation)
+*   [Visual Installation & Usage Guide &raquo;](http://testimonial.gsamdani.me/documentation)
 
 = Install by Search Plugin =
 - In your Admin, go to menu Plugins > Add New
