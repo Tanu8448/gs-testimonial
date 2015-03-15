@@ -17,7 +17,8 @@ GS Testimonial Slider is a WordPress plugin which create custom post type to add
 GS Testimonial plugin is simple but flexible & powerful.
 
 *   [Upgrade to PRO Version for FREE till 15th March 15 &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
-*   [View live demos & Documentations &raquo;](http://testimonial.gsamdani.me)
+*   [View live Demos &raquo;](http://testimonial.gsamdani.me)
+*   [Documentations &raquo;](http://testimonial.gsamdani.me/documentation)
 *   [Contact Me &raquo;](http://www.gsamdani.me/contact)
 
 
@@ -121,9 +122,9 @@ Normally Testimonials will show by descending order, latest will show first. But
 
 == Installation ==
 
-Different ways to install GS Testimonial slider plugin:
+Install GS Testimonial as a regular WordPress plugin. Here is different ways to install GS Testimonial slider plugin : 
 
-Install GS Testimonial Slider as a regular WordPress plugin
+*   [Visual Installtion & Usage Guide &raquo;](http://testimonial.gsamdani.me/documentation)
 
 = Install by Search Plugin =
 - In your Admin, go to menu Plugins > Add New
