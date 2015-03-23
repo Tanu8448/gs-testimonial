@@ -19,6 +19,7 @@ GS Testimonial plugin is simple but flexible & powerful.
 *   [Upgrade to PRO Version for FREE till 15th March 15 &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
 *   [View live Demos &raquo;](http://testimonial.gsamdani.me)
 *   [Documentations &raquo;](http://testimonial.gsamdani.me/documentation)
+*   [Support &raquo;](http://www.gsamdani.me/support)
 *   [Contact Me &raquo;](http://www.gsamdani.me/contact)
 
 
