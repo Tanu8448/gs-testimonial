@@ -9,9 +9,9 @@
  *
  * @wordpress-plugin
  * Plugin Name:			GS Testimonial
- * Plugin URI:			http://www.gsamdani.me/gs-testimonial-slider
+ * Plugin URI:			http://www.gsamdani.me/wordpress-plugins
  * Description:       	Best Responsive Testimonials slider to display client's testimonials / recommendations. Display anywhere at your site using shortcode like [gs_testimonial] Check more shortcode examples and documention at <a href="http://testimonial.gsamdani.me">GS Testimonial Pro Docs</a> 
- * Version:           	1.0.2
+ * Version:           	1.0.3
  * Author:       		Golam Samdani
  * Author URI:       	http://www.gsamdani.me
  * Text Domain:       	golamsamdani
@@ -71,5 +71,5 @@ function gst_get_free() { ?>
 	</div>
 	<?php echo ob_get_clean();
 }
-add_action('admin_notices', 'gst_get_free');
+//add_action('admin_notices', 'gst_get_free');
 //add_action('network_admin_notices', 'gst_get_free');
