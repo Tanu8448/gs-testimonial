@@ -16,7 +16,7 @@ GS Testimonial Slider is a WordPress plugin which create custom post type to add
 
 GS Testimonial plugin is simple but flexible & powerful.
 
-*   [Upgrade to PRO Version for FREE &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
+*   [Upgrade to PRO &raquo;](http://www.gsamdani.me/product/gs-testimonial-slider)
 *   [View live Demos &raquo;](http://testimonial.gsamdani.me)
 *   [Documentations &raquo;](http://testimonial.gsamdani.me/documentation)
 *   [Support &raquo;](http://www.gsamdani.me/support)
